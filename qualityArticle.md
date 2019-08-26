@@ -13,3 +13,5 @@
 https://medium.com/@Blankwonder/%E5%90%84%E7%A7%8D%E5%8A%A0%E5%AF%86%E4%BB%A3%E7%90%86%E5%8D%8F%E8%AE%AE%E7%9A%84%E7%AE%80%E5%8D%95%E5%AF%B9%E6%AF%94-1ed52bf7a803
 https://github.com/shadowsocks/shadowsocks-org/issues/64 
 https://steemit.com/cn/@v2ray/47wumq
+翻墙协议的三要素，解析到位，有助于理解工具的设计、比较以及实现
+https://steemit.com/cn/@v2ray/unzev
